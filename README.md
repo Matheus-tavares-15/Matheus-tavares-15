@@ -11,10 +11,11 @@ Estudante de Segurança da Informação na faculdade, sou um entusiasta da tecno
 - **Linguagens:** PHP, JavaScript, HTML, CSS
 - **Atuação Atual:** Python
 - **Bibliotecas Python:** Tkinter, nmap-python
+  
+## Projetos em Destaque 📊🚀
+Aqui estão alguns dos meus projetos em destaque:
 
-## Projetos e Aprendizado 🚀
-
-Estou sempre imerso em projetos pessoais e acadêmicos, aplicando os conhecimentos de Segurança da Informação e meu amor pela programação para criar soluções que importam.
+Plataforma de Comunicação e Artigos Científicos de Saúde Mental: Uma plataforma para promover discussões sobre saúde mental por meio de artigos científicos e interações. [Ver Projeto](https://github.com/Matheus-tavares-15/TCC)
 
 ## LinkedIn 🌐
 
