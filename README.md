@@ -8,7 +8,7 @@ Estudante de Segurança da Informação na faculdade, sou um entusiasta da tecno
 
 ## Linguagens e Tecnologias 💻
 
-- **Linguagens:** PHP, JavaScript, HTML, CSS, .bat
+- **Linguagens:** PHP, JavaScript, .bat, SQL
 - **Atuação Atual:** Python
 - **Bibliotecas Python:** Tkinter, nmap-python, Pandas, Sockets, Django.
   
