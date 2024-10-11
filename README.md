@@ -10,7 +10,7 @@ Estudante de Segurança da Informação na faculdade, sou um entusiasta da tecno
 
 - **Linguagens:** PHP, JavaScript, HTML, CSS, .bat
 - **Atuação Atual:** Python
-- **Bibliotecas Python:** Tkinter, nmap-python
+- **Bibliotecas Python:** Tkinter, nmap-python, Pandas, Sockets.
   
 ## Projetos em Destaque 📊🚀
 Aqui estão alguns dos meus projetos em destaque:
